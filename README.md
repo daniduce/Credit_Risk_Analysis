@@ -7,7 +7,7 @@ With the machine learning models we are using this to help solve the problem of 
 
 ## Results:
 
-# * Naive Random Oversampling
+### * Naive Random Oversampling
 
 <img width="570" alt="Screen Shot 2021-03-06 at 3 07 51 PM" src=https://user-images.githubusercontent.com/71396367/110219682-c0cc4380-7e8e-11eb-907f-17c35199ced3.png>
 
@@ -15,10 +15,10 @@ For the Naïve Random OverSampling Machine model the accuracy scores sits at 64%
 
 <img width="314" alt="Screen Shot 2021-03-06 at 4 05 55 PM" src=https://user-images.githubusercontent.com/71396367/110220772-d8f39100-7e95-11eb-80c8-b59468af2327.png>
 
-High risk sit at a precision rate of 10% and recall of 66%. Low Risk sit at a precision rate of 100% and recall of 62%. This brings the average precision to 99% and recall to 62%.
+High risk sit at a precision rate of 1% and recall of 66%. Low Risk sit at a precision rate of 100% and recall of 62%. This brings the average precision to 99% and recall to 62%.
 
 
-# * Smote Oversampling
+### * Smote Oversampling
 
 <img width="480" alt="Screen Shot 2021-03-06 at 3 15 56 PM" src=https://user-images.githubusercontent.com/71396367/110219709-e1949900-7e8e-11eb-9c28-bf03c71d47e0.png>
 
@@ -26,10 +26,10 @@ For the Smote OverSampling Machine model the accuracy scores sits at 65%.
 
 <img width="310" alt="Screen Shot 2021-03-06 at 4 06 18 PM" src=https://user-images.githubusercontent.com/71396367/110220779-e872da00-7e95-11eb-8c08-a8c0c42f3280.png>
 
-High risk sit at a precision rate of 10% and recall of 61%. Low Risk sit at a precision rate of 100% and recall of 69%. This brings the average precision to 99% and recall to 69%.
+High risk sit at a precision rate of 1% and recall of 61%. Low Risk sit at a precision rate of 100% and recall of 69%. This brings the average precision to 99% and recall to 69%.
 
 
-# * Undersampling
+### * Undersampling
 
 <img width="565" alt="Screen Shot 2021-03-06 at 3 16 42 PM" src=https://user-images.githubusercontent.com/71396367/110219746-fffa9480-7e8e-11eb-8340-69621337d77d.png>
 
@@ -37,10 +37,10 @@ For the Undersampling Machine model the accuracy scores sits at 65%.
 
 <img width="322" alt="Screen Shot 2021-03-06 at 4 06 43 PM" src=https://user-images.githubusercontent.com/71396367/110220786-f88ab980-7e95-11eb-9bea-b0e5bde79db1.png>
 
-High risk sit at a precision rate of 10% and recall of 68%. Low Risk sit at a precision rate of 100% and recall of 41%. This brings the average precision to 99% and recall to 41%.
+High risk sit at a precision rate of 1% and recall of 68%. Low Risk sit at a precision rate of 100% and recall of 41%. This brings the average precision to 99% and recall to 41%.
 
 
-# * Combination
+### * Combination
 
 <img width="569" alt="Screen Shot 2021-03-06 at 3 18 30 PM" src=https://user-images.githubusercontent.com/71396367/110219782-3b955e80-7e8f-11eb-8ca3-5fb8992404d9.png>
 
@@ -48,10 +48,10 @@ For the Combination Machine model the accuracy scores sits at 55%.
 
 <img width="324" alt="Screen Shot 2021-03-06 at 4 07 12 PM" src=https://user-images.githubusercontent.com/71396367/110220794-080a0280-7e96-11eb-8bec-9052e03b0a2a.png>
 
-High risk sit at a precision rate of 10% and recall of 72%. Low Risk sit at a precision rate of 100% and recall of 57%. This brings the average precision to 99% and recall to 57%.
+High risk sit at a precision rate of 1% and recall of 72%. Low Risk sit at a precision rate of 100% and recall of 57%. This brings the average precision to 99% and recall to 57%.
 
 
-# * Balanced Random Forest Classifier
+### * Balanced Random Forest Classifier
 
 <img width="576" alt="Screen Shot 2021-03-06 at 3 19 20 PM" src=https://user-images.githubusercontent.com/71396367/110219808-5d8ee100-7e8f-11eb-8666-cbbf2162dcff.png>
 
@@ -62,7 +62,7 @@ For the Balanced Random Forest Classifier Machine model the accuracy scores sits
 High risk sit at a precision rate of 3% and recall of 70%. Low Risk sit at a precision rate of 100% and recall of 87%. This brings the average precision to 99% and recall to 87%.
 
 
-# * Easy Ensemble Adaboost Classifier
+### * Easy Ensemble Adaboost Classifier
 
 <img width="564" alt="Screen Shot 2021-03-06 at 3 20 12 PM" src=https://user-images.githubusercontent.com/71396367/110219828-78615580-7e8f-11eb-9e34-0d2f5ad340f4.png>
 
