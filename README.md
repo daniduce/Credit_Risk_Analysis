@@ -73,6 +73,6 @@ For the Easy Ensemble Classifier Machine model the accuracy scores sits at 93%.
 High risk sit at a precision rate of 9% and recall of 92%. Low Risk sit at a precision rate of 100% and recall of 94%. This brings the average precision to 99% and recall to 94%.
 
 
-## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary: 
 
 Overall the majority of the machine learning models do not look as though they will work to help predict high and low risk credit loan applicants. After taking a deeper dive in to the accuracy scores, precision rates and recall rates – its best to assume we can forgo using Naïve Random Oversampling, Smote Oversampling, Undersampling, and Combination models. Looking at the results for the Balanced Random Forest Classifier and Easy Ensemble Adaboost Classifier, these appear to be the best options to predict high and low risk credit applicants. Working together on these two the accuracy scores, precision and recall rates were all higher than on the other models we used. 
